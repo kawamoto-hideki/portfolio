@@ -1,0 +1,2 @@
+class Myrecord < ApplicationRecord
+end
